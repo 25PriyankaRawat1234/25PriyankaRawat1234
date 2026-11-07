@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **25priyanka1234@gmail.com** For Collaboration/Project or A
 - ⚡ Fun fact: I Love Tech and Tech Love Me
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:25priyanka1234@gmail.com) 
 
 # 💻 Tech Stack:
